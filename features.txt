@@ -1,0 +1,6 @@
+These are the features that should be in the SMS:
+1. Login
+2. Attendence
+3. Calendar
+4. Class schedule
+5. Teachers and add and delete attendence
